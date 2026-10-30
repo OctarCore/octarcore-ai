@@ -9,3 +9,9 @@
    ```bash
    python -m venv .venv
    .venv\Scripts\activate     # для Windows
+
+```bash
+Встановіть залежності:
+           pip install -r requirements.txt
+Запуск аналізатора:
+           python analyzer.py

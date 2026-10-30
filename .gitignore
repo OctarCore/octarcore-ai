@@ -1,0 +1,20 @@
+# Python environments
+.venv/
+.venv_new/
+venv/
+
+# PyCharm
+.idea/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Video files
+Test_video/
+*.mp4
+*.avi
+*.mov
+
+# Secrets
+.env
